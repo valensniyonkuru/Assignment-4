@@ -1,0 +1,16 @@
+{
+    "app_title": "Calculator App",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "calculator": "Calculator",
+    "contacts": "Contacts",
+    "no_internet_connection": "No Internet Connection",
+    "connected_to_mobile": "Connected to Mobile Network",
+    "connected_to_wifi": "Connected to Wi-Fi",
+    "edit_profile_picture": "Edit Profile Picture",
+    "select_from_gallery": "Select from Gallery",
+    "take_a_picture": "Take a Picture",
+    "no_name": "No Name",
+    "no_phone": "No Phone"
+  }
+  

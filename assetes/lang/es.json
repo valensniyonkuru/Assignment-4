@@ -1,0 +1,16 @@
+{
+    "app_title": "Aplicación de Calculadora",
+    "sign_in": "Iniciar Sesión",
+    "sign_up": "Registrarse",
+    "calculator": "Calculadora",
+    "contacts": "Contactos",
+    "no_internet_connection": "Sin Conexión a Internet",
+    "connected_to_mobile": "Conectado a Red Móvil",
+    "connected_to_wifi": "Conectado a Wi-Fi",
+    "edit_profile_picture": "Editar Foto de Perfil",
+    "select_from_gallery": "Seleccionar de la Galería",
+    "take_a_picture": "Tomar una Foto",
+    "no_name": "Sin Nombre",
+    "no_phone": "Sin Teléfono"
+  }
+  
